@@ -19,7 +19,7 @@ def greatest(g1, g2, g3):
             print(str(g2) + " is greatest")
             return g2
     else:
-        print(str(g3) + " is greatest")
+        print(g3, " is greatest")
         return g3
 
 def toupperr(x):
@@ -30,6 +30,5 @@ def main():
     list1 = ["apple", "banana", "orange", "mango"]
     toupperr(list1)
 
-main()
-
-
+hello() #function call
+greatest_val = greatest(10, 20, 30)
