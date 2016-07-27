@@ -9,3 +9,4 @@ Code and datasets for teaching Python for my Chennai course.
 - https://automatetheboringstuff.com/
 - http://openbookproject.net/thinkcs/python/english3e/
 - http://inventwithpython.com/pygame/
+- Regex: http://regexone.com/lesson/letters_and_digits
