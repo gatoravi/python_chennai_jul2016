@@ -10,3 +10,5 @@ Code and datasets for teaching Python for my Chennai course.
 - http://openbookproject.net/thinkcs/python/english3e/
 - http://inventwithpython.com/pygame/
 - Regex: http://regexone.com/lesson/letters_and_digits
+- http://learnpythonthehardway.org/book/ex37.html
+- Online python: https://repl.it/languages/python3
